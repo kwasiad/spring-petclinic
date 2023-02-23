@@ -3,7 +3,7 @@ This is the Screen Shot of the Build Success Status File.
 
 
 This is the Screen Shot of the Commented POM File.
-![Screen Capture #2 ](https://github.com/kwasiad/spring-petclinic/blob/master/figures/commented_pom_file.jpg))
+![Screen Capture #2 ](https://github.com/kwasiad/spring-petclinic/blob/master/figures/commented_pom_file.jpg)
 
 
 The Screen Shot for the First Build.
