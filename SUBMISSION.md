@@ -31,5 +31,5 @@ The Screen Shot of an Unsuccessful BUILD file.
 
 
 This is the Screen shot for the Updated Badge Code
-![Screen Capture #8 ](https://github.com/kwasiad/spring-petclinic/blob/master/figures/updated_badge_code.jpg)
+![Screen Capture #9 ](https://github.com/kwasiad/spring-petclinic/blob/master/figures/updated_badge_code.jpg)
 
