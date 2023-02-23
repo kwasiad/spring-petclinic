@@ -15,7 +15,7 @@ The Screen Shot of the Fixed Pom File.
 
 
 The Screen Shot of the POM file with a successful build.
-![Screen Capture #5 ](https://github.com/kwasiad/spring-petclinic/blob/master/figures/pom_build_success.jpg)
+![Screen Capture #5 ](https://github.com/kwasiad/spring-petclinic/blob/master/figures/pom_file_success.jpg)
 
 
 The Screen Shot of the README file that Failed.
