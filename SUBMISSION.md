@@ -1,5 +1,3 @@
-This a the screen shots for the assignment
-
 This is the Screen Shot of the Build Success Status File.
 ![Screen Capture #1 ](https://github.com/kwasiad/spring-petclinic/blob/master/figures/build_sucess_status.jpg)
 
