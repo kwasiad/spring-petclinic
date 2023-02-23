@@ -11,7 +11,7 @@ The Screen Shot for the First Build.
 
 
 The Screen Shot of the Fixed Pom File.
-![Screen Capture #4 ](https://github.com/kwasiad/spring-petclinic/blob/master/figures/fixed_pom_file.jpg)
+![Screen Capture #4 ](https://github.com/kwasiad/spring-petclinic/blob/master/figures/pom_file%20_fixed.jpg)
 
 
 The Screen Shot of the POM file with a successful build.
